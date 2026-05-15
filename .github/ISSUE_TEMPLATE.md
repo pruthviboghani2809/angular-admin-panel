@@ -1,6 +1,6 @@
 <!--
 ATTENTION! WE WILL HAVE TO CLOSE THIS ISSUE if you don't provide the needed information.
-Please read https://github.com/akveo/ngx-admin/blob/master/CONTRIBUTING.md before opening an issue.
+Please read CONTRIBUTING.md before opening an issue.
 -->
 
 ### Issue type
@@ -49,7 +49,7 @@ Browser: Chrome/Safari/Firefox/etc?
 -->
 ```
 
-**Angular, Nebular**
+**Angular**
 ```
 <!--
 Check your `package-lock.json` or locate a `package.json` in the `node_modules` folder.

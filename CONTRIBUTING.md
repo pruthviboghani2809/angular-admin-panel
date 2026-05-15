@@ -28,7 +28,7 @@ To save your and our time, we will be systematically closing all the issues that
 
 ## <a name="issue"></a> Found an Issue?
 If you find a bug in the source code or a mistake in the documentation, you can help us by
-[submitting an issue](#submit-issue) to our [GitHub Repository][github]. Including an issue 
+[submitting an issue](#submit-issue) to our GitHub repository. Including an issue 
 reproduction (via CodePen, JsBin, Plunkr, GitHub repo, etc.) is the absolute best way to help the team quickly
 diagnose the problem. Screenshots and error stack traces are also helpful.
 
@@ -42,13 +42,13 @@ Please follow this simple checklist before submitting:
 
 * Issues with no clear steps to reproduce will not be triaged. If an issue is labeled with "needs info" and receives no further replies from the author of the issue for more than 5 days, it will be closed.
 
-* If you think you have found a bug, or have a new feature idea, please start by making sure it hasn't already been [reported][issues]. You can search through existing issues to see if there is a similar one reported. Include closed issues as it may have been closed with a solution.
+* If you think you have found a bug, or have a new feature idea, please start by making sure it hasn't already been reported. You can search through existing issues to see if there is a similar one reported. Include closed issues as it may have been closed with a solution.
 
 * Next, [create a new issue](#submit-issue) that thoroughly explains the problem. Please fill out the populated issue form before submitting the issue.
 
 ## <a name="feature"></a> Want a Feature?
-You can *request* a new feature by [submitting an issue](#submit-issue) to our [GitHub
-Repository][github]. If you would like to *implement* a new feature, please submit an issue with
+You can *request* a new feature by [submitting an issue](#submit-issue) to our GitHub
+repository. If you would like to *implement* a new feature, please submit an issue with
 a proposal for your work first, to be sure that we can use it. 
 Please consider what kind of change it is:
 
@@ -64,13 +64,13 @@ If your issue appears to be a bug, and hasn't been reported, open a new issue.
 Help us to maximize the effort we can spend fixing issues and adding new
 features by not reporting duplicate issues. Please make sure to fill out the populated issue form before submitting the issue.
 
-You can file new issues by providing the information [here][new_issue].
+You can file new issues by providing the information in the issue template.
 
 
 ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
 Before you submit your Pull Request (PR) consider the following guidelines:
 
-* Search [GitHub][pulls] for an open or closed PR
+* Search GitHub for an open or closed PR
   that relates to your submission. You don't want to duplicate effort.
 * Make your changes in a new git branch:
 
@@ -214,8 +214,4 @@ The rest of the commit message is then used for this.
 
 [coc]: CODE_OF_CONDUCT.md
 [dev-doc]: DEV_DOCS.md
-[github]: https://github.com/akveo/ngx-admin
 [stackoverflow]: https://stackoverflow.com/questions/tagged/ngx-admin
-[issues]: https://github.com/akveo/ngx-admin/issues
-[new_issue]: https://github.com/akveo/ngx-admin/issues/new
-[pulls]: https://github.com/akveo/ngx-admin/pulls

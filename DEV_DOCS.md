@@ -1,1 +1,3 @@
-Please have a look at [Nebular Dev Docs](https://github.com/akveo/nebular/blob/master/DEV_DOCS.md).
+# Developer Documentation
+
+Developer documentation for this project.
